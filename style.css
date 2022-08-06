@@ -27,6 +27,7 @@ img {
   overflow: hidden;
   right: 15vw;
   top: 25vh;
+  display: none;
 }
 .magnifier {
   background-image: url(./laptop.png);
